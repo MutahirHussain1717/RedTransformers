@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: aaee1be1c95344cea090928d40c27668
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Tachometer
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tachometer
+      rect:
+        serializedVersion: 2
+        x: 28.07612
+        y: 28.07612
+        width: 371.8478
+        height: 351.8478
+      alignment: 9
+      pivot: {x: 0.4731072, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 120, y: 145}
+      - {x: 120, y: 147}
+      - {x: 124, y: 141}
+    - - {x: 123, y: 150}
+      - {x: 124, y: 141}
+      - {x: 120, y: 147}
+    - - {x: 128, y: 150}
+      - {x: 124, y: 141}
+      - {x: 123, y: 150}
+    - - {x: 127, y: 141}
+      - {x: 124, y: 141}
+      - {x: 128, y: 150}
+    - - {x: 130, y: 143}
+      - {x: 127, y: 141}
+      - {x: 128, y: 150}
+    - - {x: 130, y: 146}
+      - {x: 130, y: 143}
+      - {x: 128, y: 150}
+    - - {x: -176, y: -22}
+      - {x: -176, y: 29}
+      - {x: -171, y: -53}
+    - - {x: -168, y: 65}
+      - {x: -171, y: -53}
+      - {x: -176, y: 29}
+    - - {x: -162, y: -78}
+      - {x: -171, y: -53}
+      - {x: -168, y: 65}
+    - - {x: -155, y: 91}
+      - {x: -162, y: -78}
+      - {x: -168, y: 65}
+    - - {x: -146, y: -106}
+      - {x: -162, y: -78}
+      - {x: -155, y: 91}
+    - - {x: -139, y: 114}
+      - {x: -146, y: -106}
+      - {x: -155, y: 91}
+    - - {x: -122, y: -134}
+      - {x: -146, y: -106}
+      - {x: -139, y: 114}
+    - - {x: -121, y: 132}
+      - {x: -122, y: -134}
+      - {x: -139, y: 114}
+    - - {x: -78, y: -164}
+      - {x: -122, y: -134}
+      - {x: -121, y: 132}
+    - - {x: -96, y: 152}
+      - {x: -78, y: -164}
+      - {x: -121, y: 132}
+    - - {x: -77, y: 161}
+      - {x: -78, y: -164}
+      - {x: -96, y: 152}
+    - - {x: -53, y: -171}
+      - {x: -78, y: -164}
+      - {x: -77, y: 161}
+    - - {x: -54, y: 171}
+      - {x: -53, y: -171}
+      - {x: -77, y: 161}
+    - - {x: -26, y: 176}
+      - {x: -53, y: -171}
+      - {x: -54, y: 171}
+    - - {x: -26, y: -176}
+      - {x: -53, y: -171}
+      - {x: -26, y: 176}
+    - - {x: 37, y: -176}
+      - {x: -26, y: -176}
+      - {x: -26, y: 176}
+    - - {x: 30, y: 176}
+      - {x: 37, y: -176}
+      - {x: -26, y: 176}
+    - - {x: 63, y: 169}
+      - {x: 37, y: -176}
+      - {x: 30, y: 176}
+    - - {x: 88, y: -161}
+      - {x: 37, y: -176}
+      - {x: 63, y: 169}
+    - - {x: 88, y: 157}
+      - {x: 88, y: -161}
+      - {x: 63, y: 169}
+    - - {x: 95, y: -156}
+      - {x: 88, y: -161}
+      - {x: 88, y: 157}
+    - - {x: 119, y: 135}
+      - {x: 95, y: -156}
+      - {x: 88, y: 157}
+    - - {x: 118, y: -145}
+      - {x: 95, y: -156}
+      - {x: 119, y: 135}
+    - - {x: 131, y: -145}
+      - {x: 118, y: -145}
+      - {x: 119, y: 135}
+    - - {x: 125, y: 137}
+      - {x: 131, y: -145}
+      - {x: 119, y: 135}
+    - - {x: 130, y: 139}
+      - {x: 131, y: -145}
+      - {x: 125, y: 137}
+    - - {x: 132, y: 137}
+      - {x: 131, y: -145}
+      - {x: 130, y: 139}
+    - - {x: 134, y: 119}
+      - {x: 131, y: -145}
+      - {x: 132, y: 137}
+    - - {x: 168, y: -132}
+      - {x: 131, y: -145}
+      - {x: 134, y: 119}
+    - - {x: 158, y: 88}
+      - {x: 168, y: -132}
+      - {x: 134, y: 119}
+    - - {x: 172, y: 53}
+      - {x: 168, y: -132}
+      - {x: 158, y: 88}
+    - - {x: 176, y: -26}
+      - {x: 168, y: -132}
+      - {x: 172, y: 53}
+    - - {x: 191, y: -106}
+      - {x: 168, y: -132}
+      - {x: 176, y: -26}
+    - - {x: 191, y: -43}
+      - {x: 191, y: -106}
+      - {x: 176, y: -26}
+    - - {x: 196, y: -89}
+      - {x: 191, y: -106}
+      - {x: 191, y: -43}
+    - - {x: 196, y: -61}
+      - {x: 196, y: -89}
+      - {x: 191, y: -43}
+    - - {x: 176, y: -26}
+      - {x: 172, y: 53}
+      - {x: 177, y: 16}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tachometer: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

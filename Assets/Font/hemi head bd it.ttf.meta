@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4381534c7da64e39ad37bc6643e546f4
+timeCreated: 1688648549
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "hemi head bd it"
+  fontNames:
+  - Hemi Head
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

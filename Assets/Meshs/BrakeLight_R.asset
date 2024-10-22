@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "BrakeLight_R"
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 12
+    topology: 0
+    firstVertex: 0
+    vertexCount: 6
+    localAABB:
+      m_Center: {x: 2.980232E-08, y: 0, z: 1.220033E-07}
+      m_Extent: {x: 0.04682578, y: 0.2033273, z: 0.0177887}
+  m_Shapes:
+    vertices:
+    shapes:
+    channels:
+    fullWeights:
+  m_MeshCompression: 3
+  m_StreamCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 
+  m_Skin: []
+  m_BindPose:
+  m_VertexData:
+    m_CurrentChannels: 0
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 424
+    _typelessdata: 0C0000004272616B654C696768745F5201000000000000000C00000000000000000000000600000000000033000000000000033463CC3F3D0B35503E9AB9913C00000000000000000000000000000000000000000000000000000000030101010000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000000000000000000120000000B35D03E0B3550BE170000008A01C0226499CAE726002CD699A97CF1FD3FDD71FF4F07000A0000000C000000C633683F95F232BF0C000000F52AF50FFF2AFF0FFA00F800080000000C000000137FB23D137FB2BD090000003FF0033FF0033FF003000000060000000C0000000000803F00000000090000003FF0033FF0033FF003000000060000000000000000000000000000000600000000000000000000000C00000002000000AA0A00000100000000000000000000000000000000000000000000000000000000000000000000000C000000050000008832712903000000030000000500000000000033000000000000033463CC3F3D0B35503E9AB9913C000000000000000000000000
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 18
+      m_Range: 0.4066547
+      m_Start: -0.2033273
+      m_Data: 8A01C0226499CAE726002CD699A97CF1FD3FDD71FF4F07
+      m_BitSize: 10
+    m_UV:
+      m_NumItems: 12
+      m_Range: 0.90704
+      m_Start: -0.699014
+      m_Data: F52AF50FFF2AFF0FFA00F800
+      m_BitSize: 8
+    m_Normals:
+      m_NumItems: 12
+      m_Range: 0.08715644
+      m_Start: -0.08715644
+      m_Data: 3FF0033FF0033FF003
+      m_BitSize: 6
+    m_BindPoses:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 12
+      m_Range: 1
+      m_Start: 0
+      m_Data: 3FF0033FF0033FF003
+      m_BitSize: 6
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 6
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 12
+      m_Data: AA0A
+      m_BitSize: 1
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 12
+      m_Data: 8832712903
+      m_BitSize: 3
+    m_Colors:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: 2.980232E-08, y: 0, z: 1.220033E-07}
+    m_Extent: {x: 0.04682578, y: 0.2033273, z: 0.0177887}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshOptimized: 0

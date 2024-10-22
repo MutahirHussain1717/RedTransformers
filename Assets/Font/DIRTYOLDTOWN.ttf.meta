@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c09b7a2bd03d4c9bab994b7e4cd41a05
+timeCreated: 1688648549
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "DIRTYOLDTOWN"
+  fontNames:
+  - Dirty Old Town
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

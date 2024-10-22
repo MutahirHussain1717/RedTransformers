@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c5a01626cadc4e469412437d8963a490
+timeCreated: 1688648445
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "good times rg"
+  fontNames:
+  - Good Times
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
